@@ -1,3 +1,8 @@
 spring:
   application:
     name: ai.integration
+
+  ai:
+    ollama:
+      chat:
+        model: llama3.1
